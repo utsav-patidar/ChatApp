@@ -1,0 +1,14 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.css-h79pxr {
+  background-color: transparent !important;
+}
+
+.css-hxtskf {
+  background: none !important;
+}
